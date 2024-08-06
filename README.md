@@ -15,10 +15,6 @@ will have access to LearnMateAI's exclusive
 [Flashcards](https://learnmateai.pythonanywhere.com/flashcards 'Flashcards')!
 
 
-Here's the link to the hosted website!
-
-learnmateai.pythonanywhere.com/
-
 ## Getting Started
 To get started developing, it is recommended to have the latest version of
 Python3 installed on your system. Clone our Github repository into a known
