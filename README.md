@@ -14,10 +14,16 @@ will have access to LearnMateAI's exclusive
 [Quizzes](https://learnmateai.pythonanywhere.com/quiz 'Quizzes') and
 [Flashcards](https://learnmateai.pythonanywhere.com/flashcards 'Flashcards')!
 
+
+Here's the link to the hosted website!
+
+learnmateai.pythonanywhere.com/
+
 ## Getting Started
 To get started developing, it is recommended to have the latest version of
 Python3 installed on your system. Clone our Github repository into a known
 location on your system and navigate to the project directory.
+
 
 ### Dependencies
 LearnMateAI utilizes SQLite3. Ensure this is installed on your system.
